@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.flex { 
+    display: flex;
+}
+
+.div1 {
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+}
+
+.div2 {
+    width: 40%;
+    height: 100px;
+    background-color: greenyellow;
+}
+
+.div3 {
+    width: 30%;
+    height: 100px;
+    background-color: blue;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.div4 {
+    width: 80%;
+    height: 472.5pt;
+    background-color: blueviolet;
+}
+
+.div5 {
+    width: 20%;
+    height: 472.5pt;
+    background-color: yellow;
+}
+
+.boxForm {
+    display: flex;
+}
+
+.formDados {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.formTel {
+    margin-top: 30px;
+    margin-left: 30px;
+}
